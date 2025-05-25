@@ -31,7 +31,7 @@ A web-based **invoice management platform** built with Django. This app allows o
 1. Make sure Python and pip are installed.
 2. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/django-invoice-system.git
+    git clone https://github.com/Vyom-Repo/Advanced-BIlling-System.git
     cd django-invoice-system
     ```
 
